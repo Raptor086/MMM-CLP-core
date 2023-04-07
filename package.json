@@ -1,20 +1,20 @@
 {
-  "name": "@uniswap/v3-core",
-  "description": "🦄 Core smart contracts of Uniswap V3",
-  "license": "BUSL-1.1",
+  "name": "MINI-Learning-DEX-core",
+  "description": "Core Smart Contracts for the MMM Learning DEX",
+  "license": "na",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://www.minimarketmakersnft.com",
   "keywords": [
-    "uniswap",
-    "core",
-    "v3"
+    "MINI",
+    "Learning",
+    "DEX"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-core"
+    "url": "https://github.com/Raptor086/MMM-CLP-core"
   },
   "files": [
     "contracts/interfaces",
